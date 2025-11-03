@@ -1,19 +1,25 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Neon Pulse Epsilon | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Let us give a few more tries and conclude this exploration path. Here is
+another sing-along club song. Sing-along lyrics are in the sub-titles.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #pop #rnb #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/Neon-Pulse-Epsilon.mp3
+  Size: 10309632        Blocks: 20136      IO Block: 4096   regular file
+Access: 2025-11-03 09:38:57.464478896 +0800
+Modify: 2025-11-03 09:38:49.244441487 +0800
+Change: 2025-11-03 09:38:49.244441487 +0800
+ Birth: 2025-05-21 17:50:42.446987675 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-05-30
+On YouTube since : 2025-08-02
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=2PKiYEpth_Q)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +52,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Neon Pulse Epsilon
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-neon-pulse-epsilon
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
